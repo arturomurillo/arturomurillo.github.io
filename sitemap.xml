@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://arturomurillo.com/about/</loc>
+    <loc>https://arturomurillo.com/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://arturomurillo.com/</loc>
+    <loc>https://arturomurillo.com/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://arturomurillo.com/contact/</loc>
+    <loc>https://arturomurillo.com/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://arturomurillo.com/posts/</loc>
+    <loc>https://arturomurillo.com/posts/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://arturomurillo.com/posts/test-post/</loc>
+    <loc>https://arturomurillo.com/posts/test-post/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://arturomurillo.com/categories/</loc>
+    <loc>https://arturomurillo.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://arturomurillo.com/tags/</loc>
+    <loc>https://arturomurillo.com/tags/</loc>
   </url>
   
 </urlset>
